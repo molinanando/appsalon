@@ -1,0 +1,7 @@
+host: fra.domcloud.id
+u: appsalongrx
+p: (9DcW4n11IHGq5)b-y
+
+bd: appsalongrx_db
+
+(9DcW4n11IHGq5)b-y
